@@ -7,9 +7,8 @@ This repository is dedicated to presenting my techincal course work as a mathema
 
 
 # Courses
- - MATH 316 History of Mathematics 
- - MATH 401 Real Analysis
- - MATH 426 Numerical Analysis
+ - [MATH 401 Real Analysis](https://github.com/StefanoFochesatto/MATH-401)
+ - [MATH 426 Numerical Analysis]()
  - [STAT 300 Statistics](https://github.com/StefanoFochesatto/STAT-300)
  - [MATH 490 Senior Seminar: Graph Theory](https://github.com/StefanoFochesatto/MATH-490)
  - [MATH 305 Geometry](https://github.com/StefanoFochesatto/MATH-305)
