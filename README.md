@@ -11,7 +11,7 @@ This repository is dedicated to presenting my techincal course work as a mathema
  - MATH 401 Real Analysis
  - MATH 426 Numerical Analysis
  - STAT 300 Statistics
- - MATH 460 Senior Seminar: Graph Theory
+ - MATH 490 Senior Seminar: Graph Theory
  - [MATH 305 Geometry](https://github.com/StefanoFochesatto/MATH-305)
  - [MATH 314 Linear Algebra](https://github.com/StefanoFochesatto/MATH-314)
  - [MATH 371 Probability](https://github.com/StefanoFochesatto/MATH-371)
