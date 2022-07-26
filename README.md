@@ -7,6 +7,8 @@ This repository is dedicated to presenting my techincal course work as a mathema
 
 
 # Courses
+ - [STAT 605 Spatial Statistics](https://github.com/StefanoFochesatto/STAT-401)
+ - [STAT 461 Applied Multivariate Statistic](https://github.com/StefanoFochesatto/STAT-401)
  - [STAT 401 Regression and Analysis of Variance](https://github.com/StefanoFochesatto/STAT-401)
  - [STAT 402 Scientific Sampling](https://github.com/StefanoFochesatto/STAT-402)
  - [MATH 614 Numerical Linear Algebra](https://github.com/StefanoFochesatto/MATH-614)
